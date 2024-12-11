@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className='App'>
-    <h1>Simple Counter</h1>
+    <h1>Simple Counters</h1>
     <section>
       <Viewer count={count} />
     </section>
@@ -25,4 +25,4 @@ function App() {
   )
 }
 
-export default App
+export default App 
